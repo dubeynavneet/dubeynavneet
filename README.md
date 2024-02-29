@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://capsule-render.vercel.app/api?text=Hey)
 <h1 align="center">Hi 👋, I'm Navneet Kumar Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnEzZG50eXkydThkN21wY2V4cDM4NHp5dGl0dm9yZHJyYmQ1ZHJxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 - 🔭 I’m currently working on **eat-n-split**
 
 - 🌱 I’m currently learning **React**
