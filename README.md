@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Navneet Kumar Dubey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
-- 🔭 I’m currently working on **eat-n-split**
+- 🔭 I’m currently working on **usePopcorn**
 
 - 🌱 I’m currently learning **React**
 
